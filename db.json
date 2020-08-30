@@ -2,7 +2,7 @@
   "todoList": [
     {
       "name": "Glettelés nappaliban",
-      "status": "removed",
+      "status": "todo",
       "icon": "painting",
       "id": 1
     }
