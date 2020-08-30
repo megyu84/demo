@@ -1,5 +1,11 @@
 {
   "todoList": [
+    {
+      "name": "Glettelés nappaliban",
+      "status": "removed",
+      "icon": "painting",
+      "id": 1
+    }
   ],
   "log": [
     ]
